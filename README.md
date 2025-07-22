@@ -38,10 +38,10 @@
 ---
 ### 📄 Publications
 
-- 🧾 *Efficient Segmentation Techniques for the Automated Detection of Acute Lymphoblastic Leukemia (ALL) in Microscopic Images*  
+- 🧾 *[Efficient Segmentation Techniques for the Automated Detection of Acute Lymphoblastic Leukemia (ALL) in Microscopic Images](https://ieeexplore.ieee.org/document/10441472)*  
   Published in **ICCIT 2023**  
-  📌 DOI: [https://lnkd.in/gqh53bJg](https://lnkd.in/gqh53bJg)
-
+  📌 DOI: 10.1109/ICCIT60459.2023.10441472
+  
 - ✍️ **Upcoming Submissions (Q1 Journals)**  
   - An **Automated Computer-Aided Diagnosis (CAD) System for Leukemia Detection** using ensemble deep learning models  
   - A **Fetal Brain Segmentation Framework** from ultrasound images, focusing on enhanced medical image analysis
